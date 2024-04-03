@@ -6,7 +6,7 @@
 
 🚀 Besides my studies at 42, I've been self-teaching to become a Full Stack Developer. I'm exploring front-end technologies like HTML, CSS, and TS, and delving into back-end frameworks like Node.js and Next.js. Always up for new challenges and growth opportunities!
 
-🎮 When I'm not coding, I'm out in nature with my dog, gaming, or hanging out with friends. 
+🎮 When I'm not coding, I'm either out in nature with my dog, gaming, or hanging out with friends. 
 
 <h2>💻 My Tech Stack</h2>
 <p align="center">
@@ -24,4 +24,5 @@
 <h3>Full Stack Development</h3>
 
 <h2>📊 Some Stats</h2>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NoelSabia&theme=dark&border_radius=)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NoelSabia&theme=dark&border_radius=)](https://git.io/streak-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
