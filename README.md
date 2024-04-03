@@ -24,7 +24,7 @@
 <h3>Full Stack Development</h3>
 
 <h2>📊 Some Stats</h2>
-<table style="align: center">
+<table align="center">
 	<tr>
 		<td>
 			<a href="https://git.io/streak-stats">
