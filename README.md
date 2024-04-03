@@ -15,13 +15,13 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,py,docker,bash,git" />
   </a>
 </p>
-<h3>For Frontend</h3>
+<h3>Frontend</h3>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,ts,react" />
   </a>
 </p>
-<h3>For Backend</h3>
+<h3>Backend</h3>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postman,nodejs,npm,nextjs,bootstrap" />
