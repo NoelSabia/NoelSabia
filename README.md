@@ -9,27 +9,24 @@
 🎮 When I'm not coding, you can find me either out in nature with my dog, gaming, or hanging out with friends.
 
 <h2>💻 My Tech Stack</h2>
-<p align="center">
+<h3>For University</h3>
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,docker,bash,git" />
   </a>
 </p>
-<p align="center">
+<h3>For Frontend</h3>
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,ts,react" />
   </a>
 </p>
-<p align="center">
+<h3>For Backend</h3>
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postman,nodejs,npm,nextjs,bootstrap" />
   </a>
 </p>
-<!-- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,
-	bash,bootstrap,docker,c,cpp,html,nextjs,nodejs,npm,postman,py,react,ts,vscode,css" />
-  </a>
-</p> -->
 
 <h2>🛠️ Some (own) Projects I had fun with</h2>
 <h3>Python</h3>
