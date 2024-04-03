@@ -25,12 +25,12 @@
 
 <h2>📊 Some Stats</h2>
 <div align="center">
-	<a href="https://git.io/streak-stats">
-		<img src="https://github-readme-streak-stats.herokuapp.com?user=NoelSabia&theme=dark&border_radius=" alt="GitHub Streak"/>
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoelSabia" alt="Top Langs"/>
 	</a>
 </div>
 <div align="center">
-	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoelSabia" alt="Top Langs"/>
+	<a href="https://git.io/streak-stats">
+		<img src="https://github-readme-streak-stats.herokuapp.com?user=NoelSabia&theme=dark&border_radius=" alt="GitHub Streak"/>
 	</a>
 </div>
