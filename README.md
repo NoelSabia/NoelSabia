@@ -1,2 +1,4 @@
-# <h1 style="display: flex; justify-content: center; align-content: center;">Hi there 👋, I'm Noel</h1>
+<p align="center">
+	# Hi there 👋, I'm YourName
+</p>
 <br></br>
