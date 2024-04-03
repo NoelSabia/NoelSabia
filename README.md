@@ -29,6 +29,6 @@
 		<img src="https://github-readme-streak-stats.herokuapp.com?user=NoelSabia&theme=dark&border_radius=" alt="GitHub Streak" width="400" />
 	</a>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoelSabia" alt="Top Langs" width="400" height="200"/>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoelSabia" alt="Top Langs" width="400" height="100"/>
 	</a>
 </div>
