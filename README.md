@@ -25,4 +25,4 @@
 
 <h2>📊 Some Stats</h2>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NoelSabia&theme=dark&border_radius=" alt="GitHub Streak" /></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoelSabia)](https://github.com/anuraghazra/github-readme-stats)
