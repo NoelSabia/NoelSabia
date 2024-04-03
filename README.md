@@ -30,11 +30,15 @@
 
 <h2>🛠️ Some (own) Projects I had fun with</h2>
 <h3>Python</h3>
-🔬 [DataScience](https://github.com/NoelSabia/Portfolio_PythonDatascience) with Pandas and Matplotlib
-
+<div>
+	🔬 [DataScience](https://github.com/NoelSabia/Portfolio_PythonDatascience) with Pandas and Matplotlib
+</div>
+<div>
 🤝 [Helper](https://github.com/NoelSabia/Portfolio-C-Algo) for lightweighttasks in a multithreaded Sortingproject
-
-🤖 Bot1
+</div>
+<div>
+	🤖 Bot1
+</div>
 
 <h3>C</h3>
 💻 Minishell, a bashshell in miniversion
