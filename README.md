@@ -30,10 +30,19 @@
 
 <h2>🛠️ Some (own) Projects I had fun with</h2>
 <h3>Python</h3>
+🔬 [DataScience](https://github.com/NoelSabia/Portfolio_PythonDatascience) with Pandas and Matplotlib
+🤝 [Helper](https://github.com/NoelSabia/Portfolio-C-Algo) for lightweighttasks in a multithreaded Sortingproject
+🤖 Bot1
 
 <h3>C</h3>
+💻 Minishell, a bashshell in miniversion
+🔃 Multithreaded Sortingalgorithm
 
 <h3>Full Stack Development</h3>
+🌐 Website1
+🌐 Website2
+🌐 Website3
+🤖 Bot1
 
 <h2>📊 Some Stats</h2>
 <div align="center">
