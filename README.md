@@ -9,10 +9,19 @@
 🎮 When I'm not coding, you can find me either out in nature with my dog, gaming, or hanging out with friends.
 
 <h2>💻 My Tech Stack</h2>
-[![My Skills](https://skillicons.dev/icons?i=git,bash,bootstrap,docker,c,cpp,html,nextjs,nodejs,npm,postman,py,react,ts,vscode,css&perline=5)](https://skillicons.dev)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,bootstrap,docker,c,cpp,html,nextjs,nodejs,npm,postman,py,react,ts,vscode,css" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,docker,bash,git" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,ts,react" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,nodejs,npm,nextjs,bootstrap" />
   </a>
 </p>
 <!-- <p align="center">
@@ -40,3 +49,4 @@
 		<img src="https://github-readme-streak-stats.herokuapp.com?user=NoelSabia&theme=dark&border_radius=" alt="GitHub Streak"/>
 	</a>
 </div>
+
