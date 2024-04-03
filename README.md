@@ -9,7 +9,7 @@
 🎮 When I'm not coding, I'm either out in nature with my dog, gaming, or hanging out with friends. 
 
 <h2>💻 My Tech Stack</h2>
-<p align="center">
+<p style="align: center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,
 	bash,bootstrap,docker,c,cpp,html,nextjs,nodejs,npm,postman,py,react,ts,vscode,css" />
@@ -24,7 +24,11 @@
 <h3>Full Stack Development</h3>
 
 <h2>📊 Some Stats</h2>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NoelSabia&theme=dark&border_radius=" alt="GitHub Streak" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoelSabia" alt="Top Langs">
-</a>
+<div>
+	<a href="https://git.io/streak-stats">
+		<img src="https://github-readme-streak-stats.herokuapp.com?user=NoelSabia&theme=dark&border_radius=" alt="GitHub Streak" width="400" />
+	</a>
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoelSabia" alt="Top Langs" width="400" height="200"/>
+	</a>
+</div>
