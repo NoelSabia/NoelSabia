@@ -30,25 +30,22 @@
 
 <h2>🛠️ Some (own) Projects I had fun with</h2>
 <h3>Python</h3>
-<div>
-	🔬 [DataScience](https://github.com/NoelSabia/Portfolio_PythonDatascience) with Pandas and Matplotlib
-</div>
-<div>
+
+🔬 [DataScience](https://github.com/NoelSabia/Portfolio_PythonDatascience) with Pandas and Matplotlib
 🤝 [Helper](https://github.com/NoelSabia/Portfolio-C-Algo) for lightweighttasks in a multithreaded Sortingproject
-</div>
-<div>
-	🤖 Bot1
-</div>
+🤖 [Bot1](https://unsplash.com/s/photos/funny-cat)
 
 <h3>C</h3>
-💻 Minishell, a bashshell in miniversion
-🔃 Multithreaded Sortingalgorithm
+
+💻 [Minishell](https://unsplash.com/s/photos/funny-cat), a bashshell in miniversion
+🔃 [Multithreaded](https://unsplash.com/s/photos/funny-cat) Sortingalgorithm
 
 <h3>Full Stack Development</h3>
-🌐 Website1
-🌐 Website2
-🌐 Website3
-🤖 Bot1
+
+🌐 [Website1](https://unsplash.com/s/photos/funny-cat)
+🌐 [Website2](https://unsplash.com/s/photos/funny-cat)
+🌐 [Website3](https://unsplash.com/s/photos/funny-cat)
+🤖 [Bot1](https://unsplash.com/s/photos/funny-cat)
 
 <h2>📊 Some Stats</h2>
 <div align="center">
