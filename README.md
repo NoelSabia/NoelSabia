@@ -24,7 +24,7 @@
 <h3>Full Stack Development</h3>
 
 <h2>📊 Some Stats</h2>
-<div style="align: center">
+<div style="display: flex; justify-content: center">
 	<a href="https://git.io/streak-stats">
 		<img src="https://github-readme-streak-stats.herokuapp.com?user=NoelSabia&theme=dark&border_radius=" alt="GitHub Streak"/>
 	</a>
