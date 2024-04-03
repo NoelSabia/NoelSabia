@@ -24,13 +24,19 @@
 <h3>Full Stack Development</h3>
 
 <h2>📊 Some Stats</h2>
-<div style="display: flex; justify-content: center">
-	<a href="https://git.io/streak-stats">
-		<img src="https://github-readme-streak-stats.herokuapp.com?user=NoelSabia&theme=dark&border_radius=" alt="GitHub Streak"/>
-	</a>
-</div>
-<div style="align: center">
-	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoelSabia" alt="Top Langs"/>
-	</a>
-</div>
+<table style="align: center">
+	<tr>
+		<td>
+			<a href="https://git.io/streak-stats">
+				<img src="https://github-readme-streak-stats.herokuapp.com?user=NoelSabia&theme=dark&border_radius=" alt="GitHub Streak"/>
+			</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/anuraghazra/github-readme-stats">
+				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoelSabia" alt="Top Langs"/>
+			</a>
+		</td>
+	</tr>
+</table>
