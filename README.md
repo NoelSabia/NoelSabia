@@ -32,20 +32,20 @@
 <h3>Python</h3>
 
 🔬 [DataScience](https://github.com/NoelSabia/Portfolio_PythonDatascience) with Pandas and Matplotlib<br/>
-🤝 [Helper](https://github.com/NoelSabia/Portfolio-C-Algo) for lightweighttasks in a multithreaded Sortingproject
-🤖 [Bot1](https://unsplash.com/s/photos/funny-cat)
+🤝 [Helper](https://github.com/NoelSabia/Portfolio-C-Algo) for lightweighttasks in a multithreaded Sortingproject<br/>
+🤖 [Bot1](https://unsplash.com/s/photos/funny-cat)<br/>
 
 <h3>C</h3>
 
-💻 [Minishell](https://unsplash.com/s/photos/funny-cat), a bashshell in miniversion
-🔃 [Multithreaded](https://unsplash.com/s/photos/funny-cat) Sortingalgorithm
+💻 [Minishell](https://unsplash.com/s/photos/funny-cat), a bashshell in miniversion<br/>
+🔃 [Multithreaded](https://unsplash.com/s/photos/funny-cat) Sortingalgorithm<br/>
 
 <h3>Full Stack Development</h3>
 
-🌐 [Website1](https://unsplash.com/s/photos/funny-cat)
-🌐 [Website2](https://unsplash.com/s/photos/funny-cat)
-🌐 [Website3](https://unsplash.com/s/photos/funny-cat)
-🤖 [Bot1](https://unsplash.com/s/photos/funny-cat)
+🌐 [Website1](https://unsplash.com/s/photos/funny-cat)<br/>
+🌐 [Website2](https://unsplash.com/s/photos/funny-cat)<br/>
+🌐 [Website3](https://unsplash.com/s/photos/funny-cat)<br/>
+🤖 [Bot1](https://unsplash.com/s/photos/funny-cat)<br/>
 
 <h2>📊 Some Stats</h2>
 <div align="center">
