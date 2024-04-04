@@ -38,8 +38,8 @@
 
 <h3>C</h3>
 
-💻 [Minishell](https://unsplash.com/s/photos/funny-cat), a bashshell in miniversion<br/>
-🔃 [Multithreaded](https://unsplash.com/s/photos/funny-cat) Sortingalgorithm<br/>
+💻 [Minishell](https://unsplash.com/s/photos/funny-cat), bash in a mini version.<br/>
+🔃 [Multithreaded](https://unsplash.com/s/photos/funny-cat) Sortingalgorithm with mergeSort<br/>
 
 <h3>Full Stack Development</h3>
 
