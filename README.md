@@ -5,7 +5,7 @@
 
 👨‍💻 I'm currently a student at 42 Heilbronn, where I've been immersing myself in the world of programming since last year, primarily focusing on C/C++.
 
-🚀 Besides my studies at 42, I've been self-teaching to become a Full Stack Developer. I'm exploring front-end technologies like HTML, CSS, and TS, and delving into back-end frameworks like Node.js and Next.js. Always ready for new challenges and growth opportunities!
+🚀 Besides my studies at 42, I've been self-teaching to become a Full Stack Developer. I'm exploring front-end technologies like HTML, CSS, and TS, and delving into back-end frameworks like Node.js and Next.js. Projects for my Full Stack Portfolio coming soon.
 
 🎮 When I'm not coding, you can find me either out in nature with my dog, gaming, or hanging out with friends.
 
