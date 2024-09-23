@@ -7,8 +7,6 @@
 
 🚀 Besides my studies at 42, I've been self-teaching to become a Full Stack Developer. I'm exploring front-end technologies like HTML, CSS, and TS, and delving into back-end frameworks like Node.js and Next.js. Projects for my Full Stack Portfolio coming soon.
 
-🎮 When I'm not coding, you can find me either out in nature with my dog, gaming, or hanging out with friends.
-
 <h2>💻 My Tech Stack</h2>
 <h3>For University</h3>
 <p>
@@ -28,25 +26,6 @@
     <img src="https://skillicons.dev/icons?i=postman,nodejs,npm,nextjs,bootstrap" />
   </a>
 </p>
-
-<h2>🛠️ Some (own) Projects I had fun with</h2>
-<h3>Python</h3>
-
-🔬 [DataScience](https://github.com/NoelSabia/Portfolio_PythonDatascience) with Pandas and Matplotlib<br/>
-🤝 [Helper](https://github.com/NoelSabia/Portfolio-C-Algo) for lightweighttasks in a multithreaded Sortingproject<br/>
-🤖 [Bot1](https://unsplash.com/s/photos/funny-cat)<br/>
-
-<h3>C</h3>
-
-💻 [Minishell](https://unsplash.com/s/photos/funny-cat), bash in a mini version.<br/>
-🔃 [Multithreaded](https://unsplash.com/s/photos/funny-cat) Sortingalgorithm with mergeSort<br/>
-
-<h3>Full Stack Development</h3>
-
-🌐 [Website1](https://unsplash.com/s/photos/funny-cat)<br/>
-🌐 [Website2](https://unsplash.com/s/photos/funny-cat)<br/>
-🌐 [Website3](https://unsplash.com/s/photos/funny-cat)<br/>
-🤖 [Bot1](https://unsplash.com/s/photos/funny-cat)<br/>
 
 <h2>📊 Some Stats</h2>
 <div align="center">
