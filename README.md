@@ -3,14 +3,14 @@
 </h1>
 <h2>About me</h2>
 
-👨‍💻 I'm currently a student at 42 Heilbronn, where I've been immersing myself in the world of programming since last year, primarily focusing on C/C++.
+👨‍💻 I'm currently a student at 42 Heilbronn, where I've been immersing myself in the world of programming since 2023, primarily focusing on C/C++.
 
-🚀 Besides my studies at 42, I've been self-teaching to become a Full Stack Developer. I'm exploring front-end technologies like HTML, CSS, and TS, and delving into back-end frameworks like Node.js and Next.js.
+🚀 Alongside my studies at 42, I’ve been deepening my skills across the stack—building UIs with HTML, CSS, and TypeScript, and working with Golang and Next.js on the backend. As a freelancer, I’ve been designing and shipping APIs, and getting my hands dirty with AI-Training.
 <h2>💻 My Tech Stack</h2>
 <h3>For University</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,docker,bash,git" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,docker,bash,git" />
   </a>
 </p>
 <h3>Frontend</h3>
@@ -22,7 +22,13 @@
 <h3>Backend</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,nodejs,npm,nextjs,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=postman,golang,docker,py,nginx" />
+  </a>
+</p>
+<h3>Currently learning:</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,react" />
   </a>
 </p>
 
