@@ -4,31 +4,11 @@
 
   <h1>Noel Sabia</h1>
 
-  <p>
-    <strong>Software Engineer @ PreZero</strong><br />
-    <sub>Backend-first full-stack · Vue / Nuxt · Go / Python · Kubernetes</sub>
-  </p>
-
-  <p>
-    <em>Enterprise software, end to end — from data models and services<br />
-    to interfaces people actually enjoy using.</em>
-  </p>
+  <p><strong>Software Engineer @ PreZero</strong></p>
 
 </div>
 
-## 01 · About
-
-Software Engineer at PreZero, building enterprise solutions end to end. My default is backend-first: robust architecture, sensible data models, and modern frontends in Vue and Nuxt when the interface is the product.
-
-I came up through C and C++ — memory, processes, pointers, and the unglamorous fundamentals — and that is still how I approach new problems: understand the system before reaching for a framework.
-
-I do my best work on backend-heavy product teams, where the data model, the services and the interface are one problem rather than three.
-
-- **Backend & data** — Go and Python services, PostgreSQL schemas, Redis caching, S3 object storage.
-- **Frontend** — Vue and Nuxt applications in TypeScript, built to be fast and boring to maintain.
-- **Infrastructure** — Kubernetes and Docker workloads, Grafana dashboards, and Linux servers I run myself.
-
-## 02 · Stack
+## 01 · Stack
 
 <p>
   <strong>Frontend</strong><br />
@@ -54,20 +34,7 @@ I do my best work on backend-heavy product teams, where the data model, the serv
   </picture>
 </p>
 
-## 03 · Selected work
-
-| Project | What it is | Built with |
-| :-- | :-- | :-- |
-| **[Shortautomation](https://github.com/NoelSabia/Shortautomation)** | A Python CLI that takes a short from idea to upload: AI voice, generated visuals, Whisper subtitles, ffmpeg assembly and automated publishing — at roughly €0.15–0.30 per video. | `Python` · `OpenAI` · `ElevenLabs` · `ffmpeg` |
-| **[Cub3D09](https://github.com/NoelSabia/Cub3D09)** | A raycasting engine in C inspired by Wolfenstein 3D — textured walls, collision and a playable maze rendered through miniLibX. | `C` · `miniLibX` · `Make` |
-| **[ft_cpp_modules10-11](https://github.com/NoelSabia/ft_cpp_modules10-11)** | The 42 C++ curriculum from first classes to STL containers — inheritance, polymorphism, templates, exceptions and operator overloading. | `C++98` · `STL` · `Make` |
-| **[Libft00](https://github.com/NoelSabia/Libft00)** | A from-scratch reimplementation of libc — strings, memory, linked lists and the build system around them. | `C` · `Make` |
-| **[push-swap05](https://github.com/NoelSabia/push-swap05)** | Sorting on two stacks with a restricted instruction set, tuned for the smallest possible operation count. | `C` · `Algorithms` · `Make` |
-| **[Portfolio_WhatsAppBot](https://github.com/NoelSabia/Portfolio_WhatsAppBot)** | A Dockerized TypeScript bot that reads a contact list and sends birthday messages on schedule. | `TypeScript` · `Docker` |
-
-<sub>More repositories on [GitHub](https://github.com/NoelSabia?tab=repositories).</sub>
-
-## 04 · Activity
+## 02 · Activity
 
 <p align="center">
   <picture>
@@ -94,7 +61,3 @@ I do my best work on backend-heavy product teams, where the data model, the serv
 </p>
 
 <sub>Public activity skews toward C, C++ and Python from 42 curriculum projects; the Go, Vue and Nuxt work I do day to day lives in private repositories.</sub>
-
-## 05 · Beyond the terminal
-
-I run two self-hosted Linux servers — one Ubuntu, one Debian — for containerized services, backups and Grafana dashboards. It keeps me close to the operational side of the software I build: deployment, monitoring, and what happens when something falls over at 3 a.m.
