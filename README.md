@@ -1,34 +1,55 @@
 <div align="center">
+
   <h1>Noel Sabia</h1>
-  <h3>Software Engineer @ PreZero</h3>
+  <p><strong>Software Engineer @ PreZero</strong></p>
+  <sub><a href="https://github.com/NoelSabia">github.com/NoelSabia</a></sub>
+
 </div>
 
-<br />
-
-## Professional Summary
-Software Engineer developing enterprise solutions at PreZero. Specialized in full-stack development, prioritizing robust backend architectures and scalable modern frontends.
+Software Engineer at PreZero, building enterprise solutions end to end. Focused on full-stack development with a backend-first mindset: robust architecture, sensible data models, and modern frontends in Vue and Nuxt.
 
 ---
 
-## Technical Arsenal
+## Stack
 
 ### Frontend
+
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,vue,nuxt" alt="Frontend Technologies" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue,nuxt,ts,html,css&amp;theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,html,css&amp;theme=light" alt="Vue, Nuxt, TypeScript, HTML and CSS" />
+  </picture>
 </p>
 
-### Backend & Infrastructure
+### Backend & Data
+
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=golang,py,docker,nginx,postman" alt="Backend Technologies" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,py,c,cpp,postgres,redis,aws&amp;theme=dark" />
+    <img src="https://skillicons.dev/icons?i=go,py,c,cpp,postgres,redis,aws&amp;theme=light" alt="Go, Python, C, C++, PostgreSQL, Redis and S3" />
+  </picture>
 </p>
 
-### Core Systems
+### Infrastructure & Observability
+
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,bash,git" alt="Core Tools" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,nginx,grafana,ubuntu,debian,bash,git&amp;theme=dark" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,grafana,ubuntu,debian,bash,git&amp;theme=light" alt="Docker, Kubernetes, Nginx, Grafana, Ubuntu, Debian, Bash and Git" />
+  </picture>
+</p>
+
+<sub>Also running two self-hosted servers — one Ubuntu, one Debian.</sub>
+
+---
+
+## GitHub
+
+<p align="center">
+  <a href="https://github.com/NoelSabia">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoelSabia&amp;theme=github_dark" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoelSabia&amp;theme=github" alt="Noel Sabia's GitHub profile summary and contribution graph" />
+    </picture>
   </a>
 </p>
